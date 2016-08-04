@@ -1,6 +1,6 @@
 #Changelog
 
-##1.0.0
+##1.10.0
  * Added location evidences support
 
 ##1.9.2
